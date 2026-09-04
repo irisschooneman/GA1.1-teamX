@@ -1,3 +1,15 @@
 # GA1.1-team_onyx7
 Teamopdrach_vrijdag4sept
-It works like subtracting one value from another. It breaks when you would use a string instead of an integer. It works like 2 + 2 = 4. Because these two are added together.
+## Add function
+
+The `add` function takes two values and returns their sum.
+
+Example:
+
+```python
+add(2, 3)
+```
+
+This returns `5`.
+
+The function may not work as expected when the input values do not support addition.
