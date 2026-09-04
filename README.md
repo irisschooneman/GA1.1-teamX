@@ -6,3 +6,4 @@ The `add` function takes two values and returns their sum.Example:python
 add(2, 3) This returns `5`.
 The function may not work as expected when the input values do not support addition.
 The substract function subracts two numbers use: subtract(a, b); gives: b-a
+The `square` function returns the square of a number by using the existing `multiply` function.
