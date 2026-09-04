@@ -1,3 +1,4 @@
 # GA1.1-team_onyx7
-Teamopdrach_vrijdag4sept
-It works like subtracting one value from another. It breaks when you would use a string instead of an integer. It works like 2 + 2 = 4. Because these two are added together.
+Teamopdrach_vrijdag4sept second push
+Added multipy function which, believe it or not, multiplies two numbers together (only works with numbers, no characters, strings, etc.).
+Use: multiply(9, 8); expected output: 9*8 = 72
